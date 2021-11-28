@@ -1,4 +1,4 @@
-module github.com/ompluscator/chapter3
+module github.com/PacktPublishing/Domain-Driven-Design-with-Go/chapter3
 
 go 1.15
 
